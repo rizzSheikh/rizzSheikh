@@ -9,9 +9,4 @@ I take great delight in examining new technology 🚀 configurations and harness
 - 👨🏻‍💻 &nbsp; I have deposited the most of my projects on GitHub for public access [Github](https://github.com/rizzSheikh?tab=repositories)
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/mohammad-rizwan-sheikh-8b4437171)
 
-
-### 📊 Github Stats
-<a href='https://github.com/rizzSheikh/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/rizzSheikh/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/rizzSheikh/github-stats-transparent/output/generated/languages.svg)
+...
